@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/", "dest": "/smartmarket_pricing_terralogiq.html" }
+    { "src": "/", "dest": "/terralogiq.html" }
   ]
 }
