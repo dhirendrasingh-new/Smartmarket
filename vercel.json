@@ -1,7 +1,0 @@
-{
-  "routes": [
-    { "src": "/terralogiq.html", "dest": "/terralogiq.html" },
-    { "src": "/terralogiq", "dest": "/terralogiq.html" },
-    { "src": "/", "dest": "/index.html" }
-  ]
-}
